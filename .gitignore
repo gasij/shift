@@ -1,0 +1,22 @@
+## Build
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
+*.cache
+
+## IDE
+.idea/
+.vs/
+*.swp
+*~
+
+## NuGet
+*.nupkg
+**/packages/
+
+## OS
+.DS_Store
+Thumbs.db
